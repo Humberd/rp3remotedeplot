@@ -9,7 +9,7 @@ class HelloController {
 
     @GetMapping("/hello")
     fun helloWorld(): ResponseEntity<String> {
-        return ResponseEntity.ok("Its nothinfdsg!");
+        return ResponseEntity.ok("Its working");
     }
 }
 
