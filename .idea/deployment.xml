@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Raspberry Pi 3" traceLevel="DETAILS">
+    <serverData>
+      <paths name="Raspberry Pi 3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dep" local="$PROJECT_DIR$" web="/depweb" />
+            <mapping deploy="/dep/test" local="$PROJECT_DIR$/src/test" web="/depweb/test" />
+            <mapping deploy="/dep/main" local="$PROJECT_DIR$/src/main" web="/depweb/main" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
